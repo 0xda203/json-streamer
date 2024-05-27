@@ -1,0 +1,25 @@
+{
+    "name": "@0xda203/json-streamer",
+    "version": "1.0.0",
+    "description": "A Node.js library for streaming JSON data to a file or writable stream.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/0xda203/json-streamer.git"
+    },
+    "keywords": [
+      "json",
+      "stream",
+      "streaming",
+      "file",
+      "writable",
+      "beautify"
+    ],
+    "author": "0xda203",
+    "license": "MIT"
+  }
+  
